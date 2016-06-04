@@ -16,7 +16,9 @@
 
     // Define paragraph array
     var paragraphs = []; 
-     paragraphs[0] = "<strong>Name: Christopher Ritchil <br>Program: Software Engineering Technology <br>Centennial College <br>Toronto,ON</strong>"; 
+     paragraphs[0] = "<strong>Name: Christopher Ritchil <br>Program: Software Engineering Technology <br>Centennial College <br>Toronto,ON</strong>" +
+     "<br><br>I am a beginner in the programming world and already fell in love with coding. I am learning and my future goal is to become a front end developer. I am also interested doing Android programming in future." +
+     '<br><br>One of my favorite quote is:<br><blockquote>"Manners maketh man."</blockquote>'; 
     paragraphs[1] = "<ul>" +
   "<li><a href='https://www.flickr.com/photos/chrstprrmrk/' target='_blank'>Photography</a></li>"+
   "<li><a href='http://studentweb.cencol.ca/critchil/' target='_blank'>Semester 1 HTML webpage</a></li>"+
